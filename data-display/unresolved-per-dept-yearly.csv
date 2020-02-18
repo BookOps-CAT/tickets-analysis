@@ -1,0 +1,49 @@
+dept,year,tickets
+Acquisitions,2013,13
+Acquisitions,2014,20
+Acquisitions,2015,32
+Acquisitions,2016,53
+Acquisitions,2017,65
+Acquisitions,2018,114
+Acquisitions,2019,135
+Acquisitions,2020,14
+Cataloging,2013,3
+Cataloging,2014,89
+Cataloging,2015,233
+Cataloging,2016,556
+Cataloging,2017,533
+Cataloging,2018,368
+Cataloging,2019,419
+Cataloging,2020,59
+Collections Processing,2013,0
+Collections Processing,2014,1
+Collections Processing,2015,23
+Collections Processing,2016,41
+Collections Processing,2017,54
+Collections Processing,2018,68
+Collections Processing,2019,98
+Collections Processing,2020,28
+Logistics,2013,0
+Logistics,2014,1
+Logistics,2015,3
+Logistics,2016,2
+Logistics,2017,0
+Logistics,2018,28
+Logistics,2019,72
+Logistics,2020,67
+Offsite - ReCAP,2013,0
+Offsite - ReCAP,2014,0
+Offsite - ReCAP,2015,1
+Offsite - ReCAP,2016,0
+Offsite - ReCAP,2017,0
+Offsite - ReCAP,2018,0
+Offsite - ReCAP,2019,1
+Offsite - ReCAP,2020,0
+Selection,2013,0
+Selection,2014,1
+Selection,2015,2
+Selection,2016,16
+Selection,2017,14
+Selection,2018,27
+Selection,2019,64
+Selection,2020,91
