@@ -1,0 +1,17 @@
+year,valid,tickets
+2013,correct,1201
+2014,correct,2018
+2015,correct,2678
+2016,correct,2471
+2017,correct,2144
+2018,correct,2043
+2019,correct,1725
+2020,correct,190
+2013,misassigned,110
+2014,misassigned,122
+2015,misassigned,61
+2016,misassigned,83
+2017,misassigned,89
+2018,misassigned,69
+2019,misassigned,60
+2020,misassigned,6
