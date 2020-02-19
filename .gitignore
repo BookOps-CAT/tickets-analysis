@@ -123,3 +123,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# temp/sensitive files
+files/tickets-gen-all.csv
+exports/*.csv
