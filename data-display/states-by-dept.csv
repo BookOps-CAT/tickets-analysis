@@ -1,0 +1,78 @@
+library,dept,state,tickets
+BPL Circulating,Acquisitions,Active,35
+BPL Circulating,Acquisitions,Awaiting User Info,5
+BPL Circulating,Acquisitions,Closed,825
+BPL Circulating,Acquisitions,New,46
+BPL Circulating,Cataloging,Active,396
+BPL Circulating,Cataloging,Awaiting User Info,162
+BPL Circulating,Cataloging,Awaiting Vendor,73
+BPL Circulating,Cataloging,Closed,4876
+BPL Circulating,Cataloging,New,191
+BPL Circulating,Cataloging,Resolved,17
+BPL Circulating,Collections Processing,Active,77
+BPL Circulating,Collections Processing,Awaiting User Info,27
+BPL Circulating,Collections Processing,Awaiting Vendor,1
+BPL Circulating,Collections Processing,Closed,5136
+BPL Circulating,Collections Processing,New,3
+BPL Circulating,Collections Processing,Resolved,34
+BPL Circulating,Logistics,Active,63
+BPL Circulating,Logistics,Awaiting User Info,1
+BPL Circulating,Logistics,Closed,6874
+BPL Circulating,Logistics,New,1
+BPL Circulating,Logistics,Resolved,17
+BPL Circulating,Offsite - ReCAP,Active,1
+BPL Circulating,Offsite - ReCAP,Closed,3
+BPL Circulating,Selection,Active,80
+BPL Circulating,Selection,Closed,6103
+BPL Circulating,Selection,New,3
+BPL Circulating,Selection,Resolved,32
+NYPL Circulating,Acquisitions,Active,196
+NYPL Circulating,Acquisitions,Awaiting User Info,11
+NYPL Circulating,Acquisitions,Closed,285
+NYPL Circulating,Acquisitions,New,58
+NYPL Circulating,Acquisitions,Resolved,1
+NYPL Circulating,Cataloging,Active,550
+NYPL Circulating,Cataloging,Awaiting User Info,337
+NYPL Circulating,Cataloging,Awaiting Vendor,72
+NYPL Circulating,Cataloging,Closed,4624
+NYPL Circulating,Cataloging,New,144
+NYPL Circulating,Cataloging,Resolved,5
+NYPL Circulating,Collections Processing,Active,154
+NYPL Circulating,Collections Processing,Awaiting User Info,41
+NYPL Circulating,Collections Processing,Closed,10491
+NYPL Circulating,Collections Processing,New,6
+NYPL Circulating,Collections Processing,Resolved,30
+NYPL Circulating,Logistics,Active,91
+NYPL Circulating,Logistics,Awaiting User Info,1
+NYPL Circulating,Logistics,Closed,11028
+NYPL Circulating,Logistics,New,10
+NYPL Circulating,Logistics,Resolved,23
+NYPL Circulating,Offsite - ReCAP,Closed,1
+NYPL Circulating,Selection,Active,114
+NYPL Circulating,Selection,Awaiting User Info,4
+NYPL Circulating,Selection,Closed,17724
+NYPL Circulating,Selection,New,8
+NYPL Circulating,Selection,Resolved,88
+NYPL Research,Acquisitions,Active,82
+NYPL Research,Acquisitions,Closed,46
+NYPL Research,Acquisitions,New,13
+NYPL Research,Acquisitions,Resolved,1
+NYPL Research,Cataloging,Active,217
+NYPL Research,Cataloging,Awaiting User Info,61
+NYPL Research,Cataloging,Awaiting Vendor,13
+NYPL Research,Cataloging,Closed,2830
+NYPL Research,Cataloging,New,44
+NYPL Research,Cataloging,Resolved,8
+NYPL Research,Collections Processing,Active,2
+NYPL Research,Collections Processing,Awaiting User Info,1
+NYPL Research,Collections Processing,Closed,325
+NYPL Research,Collections Processing,New,1
+NYPL Research,Collections Processing,Resolved,3
+NYPL Research,Logistics,Active,6
+NYPL Research,Logistics,Closed,628
+NYPL Research,Logistics,Resolved,1
+NYPL Research,Offsite - ReCAP,Active,1
+NYPL Research,Offsite - ReCAP,Closed,121
+NYPL Research,Offsite - ReCAP,Resolved,1
+NYPL Research,Selection,Active,6
+NYPL Research,Selection,Closed,129

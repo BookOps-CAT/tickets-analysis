@@ -1,0 +1,31 @@
+dept_from,dept_to,tickets
+Cataloging,Acquisitions,158
+Cataloging,Collections Processing,319
+Cataloging,Logistics,1
+Cataloging,Offsite - ReCAP,17
+Cataloging,Selection,83
+Acquisitions,Cataloging,39
+Acquisitions,Collections Processing,108
+Acquisitions,Logistics,122
+Acquisitions,Offsite - ReCAP,1
+Acquisitions,Selection,124
+Selection,Acquisitions,62
+Selection,Cataloging,78
+Selection,Collections Processing,24
+Selection,Logistics,50
+Selection,Offsite - ReCAP,1
+Logistics,Acquisitions,56
+Logistics,Cataloging,11
+Logistics,Collections Processing,133
+Logistics,Offsite - ReCAP,7
+Logistics,Selection,6
+Offsite - ReCAP,Acquisitions,2
+Offsite - ReCAP,Cataloging,4
+Offsite - ReCAP,Logistics,1
+Offsite - ReCAP,Selection,1
+Collections Processing,Acquisitions,213
+Collections Processing,Cataloging,318
+Collections Processing,Logistics,87
+Collections Processing,Logistics,1
+Collections Processing,Offsite - ReCAP,9
+Collections Processing,Selection,170
